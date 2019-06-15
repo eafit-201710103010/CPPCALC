@@ -1,1 +1,1 @@
-# CPPCALC
+# C++ and Ruby calculators
